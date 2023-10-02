@@ -1,6 +1,6 @@
 .header{
     background-color: blueviolet;
-    padding: 3% 15%;
+    padding: 4% 15%;
     margin: auto;
 }
 body{
@@ -11,10 +11,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .bertie-creator{
     width: 85%;
     height: 85%;
+    padding-left: 15px; /* se agrego de mas */
 }
 .bertie{
     width: 85%;
     height: 85%;
+    padding-left: 15px; /* se agrego de mas */
 }
 aside{
     width: 25%;
@@ -22,6 +24,34 @@ aside{
 p{
     color: white;
 }
-h1{
+h1{  /* rediseña el 1958 */
     color: white;
+    text-align: right;
+    padding-right: 90px;
+    font-size: 70px;
+    margin: 20px;
+}
+.creador{ /* la imagen del tetris */
+    height: 300px;
+    width: 530px;
+}
+.imagen{ /* la imagen del men */
+    height: 300px;
+    width: 330px;
+}
+.descripcion{
+    font-size: 19px;
+}
+.orden{ /* organiza el menu lateral*/
+    display: flex;
+    list-style-type: none;/* quita los puntos */
+}
+.estiloli{ /* diseño en el menu lateral*/
+    color: white;
+    padding-left: 35px;
+    text-decoration: none;/* quita el subrayado */
+    font-size: 35px;
+}
+.main{
+    display: flex;
 }
