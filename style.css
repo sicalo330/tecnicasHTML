@@ -2,6 +2,7 @@
     background-color: blueviolet;
     padding: 4% 15%;
     margin: auto;
+    opacity: 0.6;
 }
 body{
     margin: 0;
@@ -62,6 +63,17 @@ h1{  /* rediseña el 1958 */
 }
 .main{
     display: block;
+}
+.footer{
+    background-color: blueviolet;
+    padding: 4% 15%;
+    margin: auto;
+    opacity: 0.5;
+}
+.cuadro{
+    background: red;
+    width: 65px;
+    height: 65px;
 }
 /* de aqui empieza lo responsive */
 @media (min-width: 576px) {
