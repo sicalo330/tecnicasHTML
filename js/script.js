@@ -1,4 +1,4 @@
-const enviar = document.querySelector("#Enviar");
+const enviar = document.querySelector(".btn");
 enviar.addEventListener('click', function(e){
     e.preventDefault();
     enviarDatos();
