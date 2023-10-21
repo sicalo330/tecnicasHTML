@@ -1,3 +1,27 @@
+.header{
+  background-color: blueviolet;
+  padding: 4% 15%;
+  margin: auto;
+  opacity: 0.6;
+}
+h1{  /* rediseña el 1958 */
+  color: white;
+  text-align: right;
+  padding-right: 90px;
+  font-size: 70px;
+  margin: 20px;
+}
+.orden{
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.estiloli{
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
 article {
   --img-scale: 1.001;
   --title-color: black;
@@ -23,7 +47,6 @@ article a::after {
   content: "";
 }
 
-/* basic article elements styling */
 article h2 {
   margin: 0 0 18px 0;
   font-family: "Bebas Neue", cursive;
@@ -72,7 +95,6 @@ article a .icon {
   transition: all 0.3s;
 }
 
-/* using the has() relational pseudo selector to update our custom properties */
 article:has(:hover, :focus) {
   --img-scale: 1.1;
   --title-color: #28666e;
@@ -80,11 +102,6 @@ article:has(:hover, :focus) {
   --link-icon-opacity: 1;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
-
-
-/************************ 
-Generic layout (demo looks)
-**************************/
 
 *,
 *::before,
@@ -142,7 +159,7 @@ Generic layout (demo looks)
 }
   body {
       margin: 0;
-      padding: 48px 0;
+      padding:0;
       font-family: "Figtree", sans-serif;
       font-size: 1.2rem;
       line-height: 1.6rem;
