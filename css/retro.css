@@ -1,0 +1,25 @@
+.body-retro{
+    background-image: url(../Imagenes/Fondo-diseño.jpg);
+}
+
+.orden-retro{
+    color: #000000;
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.estiloli-retro{
+    color: #000000;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.inicio-CAS{
+    height: 5%;
+}
+
+p,li{
+    font-size: larger;
+}

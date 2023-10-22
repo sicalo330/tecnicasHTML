@@ -1,6 +1,6 @@
 const noticiasElem = [
     {
-      title:'Tetris',
+      title:'Berti the brain',
       image:'bertie',
       descripcion:'Berti the Brain (Bertie el Cerebro) fue uno de los primeros juegos interactivos de ordenador de la historia. Fue construido en Toronto por Josef Kates para la Exposición Nacional Canadiense de 1950. El ordenador de cuatro metros de alto permitía a los asistentes jugar al juego tic-tac-toe (tres en raya) contra una inteligencia artificial.',
       link:'https://es.wikipedia.org/wiki/Bertie_the_Brain',
