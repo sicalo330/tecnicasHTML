@@ -1,0 +1,9 @@
+[
+    {
+        "login":"login",
+        "Email":"Email",
+        "Password":"Password",
+        "ForgetPassword":"ForgetPassword",
+        "Signup":"Signup"
+    }
+]
