@@ -3,12 +3,19 @@ const getRetro = async() =>{
     const elements = await data.json();
     let articulo2 = document.querySelector(".articulo2");
 
-    elements.forEach((element) => {
+    elements.forEach(element => {
         articulo2.innerHTML += `
-        <li>"${element.descripcionJuego}"</li>
-        <img src="./Imagenes/${element.imagen}.jpg">
-        <img src="./GIFS/${element.gif}.gif">
-        <img src="./GIFS/${element.gif}.gif">
+        <aside class="contenedor-principal">
+        <div class="contenedor-subtitulo">
+            <h2 class="subtitulo">${element.subtitulo}</h2>
+        </div>
+        <div class="contenedor-descripcion">
+            <img src="./Imagenes/${element.imagen}.jpg">
+            <div class="contenedor-texto">
+                <p class="descripcionJuego">${element.descripcionJuego}</p>
+            </div>
+        </div>
+        </aside>
         `
     });
 }
