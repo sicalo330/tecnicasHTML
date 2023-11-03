@@ -25,6 +25,7 @@
     },
     {
         "id":4,
+        "subtitulo":"El jugador sigue saltando",
         "descripcionJuego":"Como se puede ver en la  imágen, el jugador se encuentra con un enemigo más grande, más rápido y más fuerte, en esta ocasión saltar no sirve de nada, el diseño de este estrecho pasillo hace que sea imposible saltarlo y además es el único enemigo que obstruye la puerta contra el primer jefe, eso significa que si el jugador no puede matar a este enemigo, estará muy lejos de derrotar al jefe",
         "imagen":"obstaculo"
     },
@@ -33,5 +34,120 @@
         "subtitulo":"Obstáculo inamovible",
         "descripcionJuego":" La última mecánica del juego y la más importante, encontrar obstáculos imposibles de pasar por el momento, como se puede ver, el jugador sin importar que tan fuerte apriete el botón para saltar, simplemente no va a poder alacanzar esa plataforma, esta entrega de castlevania es del génermo metroidvania, y encontrar este tipo de obstáculos es normal ya que obliga al jugador a seguir explorando hasta encontrar algún item, poder o reliquia que le permite poder alcanzar esa plataforma, en este caso, el jugador necesitará de un doble salto para poder alcanzar la plataforma, habilidad que conseguirá después",
         "imagen":"metroidvania"
+    },
+    {
+        "id":6,
+        "subtitulo":"Muchas mecánicas en un juego",
+        "descripcionJuego":"Celeste es un juego con pocos niveles, pero cada uno de ellos implementa una mecánica diferente a la anterior",
+        "imagen":"entrada-celeste"
+    },
+    {
+        "id":7,
+        "subtitulo":"Dash",
+        "descripcionJuego":"La mecánica principal de este juego es saltar y hacer un dash que impulsa a la protagonista a una de las 8 direcciones, esto obliga al diseñador a crear mapas y niveles creados específicamente para la protagonista",
+        "imagen":"celeste-dash"
+    },
+    {
+        "id":8,
+        "subtitulo":"Obstáculo imposible para un salto, pero para el dash...",
+        "descripcionJuego":"Como se puede apreciar, el salto de la protagonista no es lo suficientemente alto para poder alcanzar el otro lado, sin embargo gracias al dash, el jugador puede llegar gracias al impulso que proporcina el dash",
+        "imagen":"obstaculo1-salto"
+    },
+    {
+        "id":9,
+        "subtitulo":"El jugador pasa el obstáculo",
+        "descripcionJuego":"Como se puede apreciar el dash genera un impulso que permite llevar al jugador al otro lado",
+        "imagen":"obstaculo1-salto-pasa"
+    },
+    {
+        "id":10,
+        "subtitulo":"Dash negro",
+        "descripcionJuego":"En esta ocasión, la protagonista al hacer un dash en esta zona negra, puede recorrer toda la distancia de dicha zona negra y además puede hacer un dash adicional al salir, lo que le permite a la protagonista llegar a lugares que antes no podría con un dash normal",
+        "imagen":"dashNegro",
+        "imagen2":"dashNegro-pasando",
+        "imagen3":"dashNegro-saliendo",
+        "imagen4":"obstaculo2-dashNegro"
+    },
+    {
+        "id":11,
+        "subtitulo":"Burbujas",
+        "descripcionJuego":"El nivel al que se enfrenta la protagonista tiene un viento tan fuerte que la arrastra, normalmente podría llegar con un salto y un dash a las plataformas, pero el viento hace que le sea imposible, en esta ocasión hay una burbuja que al entrar le da un impulso extra al jugador además del dash, lo que le permite hace dos dashes por así decirlo",
+        "imagen":"burbuja-antes",
+        "imagen2":"burbuja-despues",
+        "imagen3":"burbuja-salir"
+    },
+    {
+        "id":12,
+        "subtitulo":"Mecánicas y más mecánicas",
+        "descripcionJuego":"Kirby es un personaje capaz de absorber a sus enemigos y copiar sus habilidades, en este caso tenemos a un jefe que al derrotarlo y absorberlo le da a kirby el poder de lanzar bombas",
+        "imagen":"jefe-bomba"
+    },
+    {
+        "id":13,
+        "subtitulo":"La mecánica interactúa con el mapa sin haberla cambiado",
+        "descripcionJuego":"Al obtener la habilidad de lanzar bombas, kirby puede romper bloques que le permitirá comer y por ender recuperar la vidad que perdió durante la batalla contra el jefe",
+        "imagen":"kirby-rompe"
+    },
+    {
+        "id":14,
+        "subtitulo":"Cambios abruptos de dificultad",
+        "descripcionJuego":"Battletoads es un juego extremadamente difícil, no porque los jugadores son malos jugando, sino porque en términos de diseño de niveles, es muy injusto, solo al inicio del juego dejan a la deriva al jugador e inmediatamente lo ponen a pelear contra dos enemigos rápidos y que quitan 1 de los 5 puntos de vida que tiene el jugador sin haberle dado si quiera una pista de cómo moverse o al menos atacar, estos fallos son una constante a lo largo del juego ya que los creadores suponen que el jugador sabrá qué hacer cuando en realidad no le han dicho nada, es como dejar a alguien desnudo en el desierto y suponer que llegará bien a su casa ",
+        "imagen":"BTT"
+    },
+    {
+        "id":15,
+        "subtitulo":"Tan fácil que aburre",
+        "descripcionJuego":"Kirby se caracteriza por ser accesible, es decir que cualquier tipo de persona lo pueda jugar y disfrutar, sin embargo hay algunas entregas que son tan accesibles que olvidan al público que busca un reto mayor, estos son los que más sufren ya que al estar tan enfocado en hacerlo accesible hacen los diseños muy fáciles de entender y ejecutar hasta el punto que se vuelve aburrido, como recompensar muchas veces al jugador, enemigos poco peligrosos, hasta la habilidad de volar de kirby es capaz de romper niveles de algunas entregas ",
+        "imagen":"kirby-vuela"
+    },
+    {
+        "id":16,
+        "subtitulo":"El equilirio",
+        "descripcionJuego":"Ender lilies es un juego cuya dificultad y esencia se basa en la exploración de un reino en ruinas, pero en el combate siempre hay una constante, desde el enemigo más pequeño hasta el jefe más poderoso emiten una luz antes de atacar, esto le dice directamente al jugador que se preparé para un ataque enemigo, un detalle simple hace que el jugador sea capaz de entender en poco tiempo que esa luz significa peligro, y por ende debe evitarlo y si por alguna razón perdió, la culpa fue del jugador y no del juego",
+        "imagen":"luz-ataque",
+        "imagen2":"luz-ataca2"
+    },
+    {
+        "id":17,
+        "subtitulo":"Desafío-recompensa",
+        "descripcionJuego":"Al igual que las recompensas, es importante darle desafíos que pongan a prueba la destreza y la mecánica planteada, al inicio del nivel, mario puede convertirse en un pinguino que tira bolas de hielo que congelan a los enemigos, los enemigos congelados sirven como plataformas que llevan a Mario a otros lugares, en este caso se está poniendo a prueba la mecánica de la bola de hielo, el objetivo es congelar a la planta piraña para utilizarlo como plataforma y alcanzar la moneda que es un coleccionable en el juego, el riesgo es caer al vacío, pero si el jugador logra pasar este desafío aprenderá que en algunos momentos puede utilizar a los enemigos congelados para alcanzar otros lugares",
+        "imagen":"inicio-desafio",
+        "imagen2":"final-desafio"
+    },
+    {
+        "id":18,
+        "subtitulo":"Programación orientada a interactividad",
+        "descripcionJuego":"los lenguajes más utilizados en el desarrollo de videojuegos son: c#,c++, python, JavaScript o Lua, existen varios motores gráficos como unity, Godot, Game maker, rpg maker o incluso Clickteam Fusion",
+        "imagen":"programando"
+    },
+    {
+        "id":19,
+        "subtitulo":"Una misión sencilla",
+        "descripcionJuego":"En una misión el jugador tiene que recolectar una cantidad de cosas,pero hay que tener en cuenta varios aspectos, básicamente encontrar errores mediante la prueba y el error, el jugador habla con el npc, npc pide x cantidad de algo, jugador recolecta y si la cantidad que tiene el jugador es igual a la cantidad del algo que pide el npc, el jugador tendrá que ir nuevamente con el npc para completar la misión, esto es sencillo pero...",
+        "imagen":"inicio-mision"
+    },
+    {
+        "id":20,
+        "subtitulo":"El jugador vuelve a hablar con el npc sin haber recolectado la cantidad necesaria",
+        "descripcionJuego":"Muy posiblemente la primera vez que se ha hecho el código no se puso una condicional en el npc, es decir el npc no es capaz de diferenciar entre la cantidad que pidió con la cantidad que tiene el jugador, en otras palabras el jugador al haber recolectado poco o nada del algo,igual se complete la misión. Para arreglar esto, hay que poner una condicional al npc, es decir que si la cantidad de hiebas(es un ejemplo) es igual o mayor a la cantidad de hierbas que tiene el jugador entonces la misión se completará, pero de no ser así mandar un mensaje que diga que no se ha recolectado las hierbas suficientes y por ende debe seguir buscando",
+        "imagen":"mision-off"
+    },
+    {
+        "id":21,
+        "subtitulo":"El jugador se va",
+        "descripcionJuego":"Para ello, se debe limitar la zona, cuando el jugador toque el cuadro debe activarse dos condiciones",
+        "imagen":"limites"
+    },
+    {
+        "id":22,
+        "subtitulo":"El jugador se va pt2",
+        "descripcionJuego":"La primera es que el jugador colisione con el cuadro y la segunda es que el jugador tenga la misión de recolectar activado, si no se cumple una de esas condiciones el jugador no recibirá ninún efecto",
+        "imagen":"limites-prueba"
+    },
+    {
+        "id":23,
+        "subtitulo":"El jugador vuelve a hablar con el npc después de haber recolectado la cantidad necesaria",
+        "descripcionJuego":"Si por alguna razón el jugador vuelve a hablar con el npc después de completar la misión, lo más probable es que la misión vuelva a comenzar, para ello despúés de que la condición de recolección haya sido verdad hay que desactivar la mision y en cambio dejar un mensaje adicional",
+        "imagen":"mision-on"
     }
 ]

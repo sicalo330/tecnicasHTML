@@ -30,19 +30,21 @@ p,li{
 
 img{
     border-radius: 10px;
+    border: 1px solid white;
 }
 
 
-.tituloRetro, .explicacionRetro{
+.titulo-retro, .explicacion-retro{
     text-align: center;
+    font-size: 30px;
 }
 
-.CAS{
+.titulo-juego{
     text-align: center;
     justify-content: center;
     align-items: center;
     border: 1px solid white;
-    border-radius: 3px;
+    border-radius: 5px;
     width: 50%;
     margin-left: 25%;
     background-color: white;
@@ -63,10 +65,38 @@ img{
     margin-top: 70px;
 }
 
-.contenedor-descripcion{
+.contenedor-texto-1{
     display: flex;
+    text-align: center;
+    width: 50%;
+    font-size: 150%;
+    margin-left: 290px;
+    margin-top: 250px;
 }
 
+.contenedor-texto-2{
+    display: flex;
+    text-align: center;
+    width: 50%;
+    font-size: 150%;
+    margin-left: 290px;
+}
+
+.descripcionJuego{
+    text-align: center;
+    margin-left: 55px;
+}
+
+.descripcionJuego-2{
+    margin-top: 350px;
+}
+
+.descripcionJuego-3{
+    margin-top: 150px;
+}
+.descripcionJuego-4{
+    margin-top: 450px;
+}
 .subtitulo{
     display: block;
     text-align: center;
@@ -81,4 +111,30 @@ img{
     margin-left: 650px;
     width: 500px;
     padding: 0;
+}
+
+.contenedor-descripcion{
+    display: flex;
+}
+
+
+.contenedor-descripcion-img{
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+}
+
+.contenedor-juego{
+    display: flex;
+}
+
+.ajustar-imagen{
+    width: 120%;
+}
+
+.ajustar-imagen-1{
+    width: 80%;
+}
+.ajustar-imagen-2{
+    width: 35%;
 }
