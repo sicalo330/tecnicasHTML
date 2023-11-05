@@ -1,151 +1,281 @@
 [
     {
         "id":0,
+        "titulo":"Lo primero es lo más importante",
+        "explicacion":"Las primeras impresiones son importantes, lo mismo ocurre en los videojuegos, el primer enemigo puede tener una variedad de propósitos, desde enseñar la mecánica principal de todo el juego e incluso dar a entender el mensaje que el creador le quiere dar al jugador. En el diseño de niveles es esencial hacer el videojuego enfocado a la gente que nunca ha tocado un control, y con esto comencemos",
+        "tituloJuego":"castlevania aria of sorrow(GBA)",
         "subtitulo":"El zombie",
         "descripcionJuego":"En este juego, el primer enemigo es un zombie, este se caracteriza por tener movimientos simples y lentos. El jugador no sabe qué hacer ya que únicamente puede moverse de izquierda a derecha, esto genera una amplia variedad de situaciones",
         "imagen":"primerEnemigo"
     },
     {
         "id":1,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador no hace nada",
         "descripcionJuego":" Ya que el jugador es un inexperto, se dejará golpear fácilmente por el zombie, sin embargo otra característica que tiene este último es que quita muy poco daño, es casi insignificante en comparación con la cantidad de vida que el jugador tiene, esto le da mucho tiempo  varias oportunidades para que piense en algo. En el caso de que el jugador tenga un game over, simplemente volverá al inicio y debe pasar una puerta que se encuentra literalmente en su cara para volver a intentarlo",
         "imagen":"atacado"
     },
     {
         "id":2,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador ataca",
         "descripcionJuego":" Otra mecánica fundamental en todo el juego, aprender atacar para poder derrotar a los monstruos, subir de nivel y de esta forma ser más fuerte",
         "imagen":"atacar"
     },
     {
         "id":3,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador salta",
         "descripcionJuego":"El aprender a saltar es una mecánica fundamental en los castlevanias y por su puesto es una forma de pasar de largo con este enemigo, pero no siempre va a ser una buenas solución, ya que si no ataca a ningún enemigo, no subirá de nivel, si no sube de nivel, el jugador no tendrá la habilidad ni la destreza suficiente para poder pasar por enemigos más fuertes.",
         "imagen":"saltar"
     },
     {
         "id":4,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador sigue saltando",
         "descripcionJuego":"Como se puede ver en la  imágen, el jugador se encuentra con un enemigo más grande, más rápido y más fuerte, en esta ocasión saltar no sirve de nada, el diseño de este estrecho pasillo hace que sea imposible saltarlo y además es el único enemigo que obstruye la puerta contra el primer jefe, eso significa que si el jugador no puede matar a este enemigo, estará muy lejos de derrotar al jefe",
         "imagen":"obstaculo"
     },
     {
         "id":5,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"Obstáculo inamovible",
         "descripcionJuego":" La última mecánica del juego y la más importante, encontrar obstáculos imposibles de pasar por el momento, como se puede ver, el jugador sin importar que tan fuerte apriete el botón para saltar, simplemente no va a poder alacanzar esa plataforma, esta entrega de castlevania es del génermo metroidvania, y encontrar este tipo de obstáculos es normal ya que obliga al jugador a seguir explorando hasta encontrar algún item, poder o reliquia que le permite poder alcanzar esa plataforma, en este caso, el jugador necesitará de un doble salto para poder alcanzar la plataforma, habilidad que conseguirá después",
         "imagen":"metroidvania"
     },
     {
         "id":6,
+        "titulo":"El juego se adapta a la mecánica",
+        "explicacion":"En varias ocasiones un juego no estará hecho como se tenía planeado, algún error o complicación puede aparecer a la hora de crear un videojuego en el apecto de las mecánicas, pero hay que tomar una decisión para poder avanzar",
+        "tituloJuego":"Celeste",
         "subtitulo":"Muchas mecánicas en un juego",
         "descripcionJuego":"Celeste es un juego con pocos niveles, pero cada uno de ellos implementa una mecánica diferente a la anterior",
         "imagen":"entrada-celeste"
     },
     {
         "id":7,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"Dash",
         "descripcionJuego":"La mecánica principal de este juego es saltar y hacer un dash que impulsa a la protagonista a una de las 8 direcciones, esto obliga al diseñador a crear mapas y niveles creados específicamente para la protagonista",
         "imagen":"celeste-dash"
     },
     {
         "id":8,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"Obstáculo imposible para un salto, pero para el dash...",
-        "descripcionJuego":"Como se puede apreciar, el salto de la protagonista no es lo suficientemente alto para poder alcanzar el otro lado, sin embargo gracias al dash, el jugador puede llegar gracias al impulso que proporcina el dash",
+        "descripcionJuego":"Estamos ante un acantilado, si la protagonista cae perderá, la solución sería simplemente saltar, pero no alcanza la altura suficiente para llegar al otro lado",
         "imagen":"obstaculo1-salto"
     },
     {
         "id":9,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador pasa el obstáculo",
-        "descripcionJuego":"Como se puede apreciar el dash genera un impulso que permite llevar al jugador al otro lado",
+        "descripcionJuego":"Gracias al dash, el obstaculo no supone mucho problema, más adelante se dará a entender el porque celeste tiene mapas que se adaptan a la mecánica del juego",
         "imagen":"obstaculo1-salto-pasa"
     },
     {
         "id":10,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"Dash negro",
-        "descripcionJuego":"En esta ocasión, la protagonista al hacer un dash en esta zona negra, puede recorrer toda la distancia de dicha zona negra y además puede hacer un dash adicional al salir, lo que le permite a la protagonista llegar a lugares que antes no podría con un dash normal",
-        "imagen":"dashNegro",
-        "imagen2":"dashNegro-pasando",
-        "imagen3":"dashNegro-saliendo",
-        "imagen4":"obstaculo2-dashNegro"
+        "descripcionJuego":"En otro nivel, aparece la mecánica del dash negro, que únicamente se puede emplear usando el dash en dirección a la zona",
+        "imagen":"dashNegro"
     },
     {
         "id":11,
-        "subtitulo":"Burbujas",
-        "descripcionJuego":"El nivel al que se enfrenta la protagonista tiene un viento tan fuerte que la arrastra, normalmente podría llegar con un salto y un dash a las plataformas, pero el viento hace que le sea imposible, en esta ocasión hay una burbuja que al entrar le da un impulso extra al jugador además del dash, lo que le permite hace dos dashes por así decirlo",
-        "imagen":"burbuja-antes",
-        "imagen2":"burbuja-despues",
-        "imagen3":"burbuja-salir"
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Dash negro",
+        "descripcionJuego":"Esa zona negra hace que el jugador pueda recorrer la distancia euivalente a la dirección en la que empleó el dash(Es decir que un dash a la izquierda como en este caso recorrerá una distancia mayor en comparación de haber hecho el dash hacia arriba), esto le permite a la protagonista llegar a lugares que antes no podría con un dash normal",
+        "imagen":"dashNegro-pasando"
     },
     {
         "id":12,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Dash negro",
+        "descripcionJuego":"Después de salir de la zona negra, la protagonista es capaz de realizar un dash adicional punto que puede salvar en más de una ocasión en el tema del plataformeo",
+        "imagen":"dashNegro-saliendo-2"
+    },
+    {
+        "id":13,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Dash negro",
+        "descripcionJuego":"En esta ocasión, la protagonista al hacer un dash en esta zona negra, puede recorrer toda la distancia de dicha zona negra y además puede hacer un dash adicional al salir lo que le permite obtener la fresa que es un coleccionable importante en el juego",
+        "imagen":"obstaculo2-dashNegro"
+    },
+    {
+        "id":14,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Burbujas",
+        "descripcionJuego":"El nivel al que se enfrenta la protagonista tiene un viento tan fuerte que la arrastra, normalmente podría llegar con un salto y un dash a las plataformas, pero el viento hace que le sea imposible",
+        "imagen":"burbuja-antes"
+    },
+    {
+        "id":15,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Burbujas",
+        "descripcionJuego":"En esta ocasión hay una burbuja que al entrar le da un impulso extra al jugador además del dash, lo que le permite hace dos dashes por así decirlo",
+        "imagen":"burbuja-despues"
+    },
+    {
+        "id":16,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"Burbujas",
+        "descripcionJuego":"Gracias a la burbuja, el jugador puede alcanzar las plataformas a pesar de la fuerza del viento",
+        "imagen":"burbuja-salir"
+    },
+    {
+        "id":17,
+        "titulo":"La mecánica se adapta al juego",
+        "explicacion":"¿Qué pasa cuando los desarrolladores no pueden o simplementen no quieren cambiar el entorno para adaptarse a la nueva mecánica?, la respuesta es, simplemente no lo hacen, y hacen los ajustes necesarios a las nueva mecánica planteada, sin embargo puede llegar a ser muy peligroso ya que no cambiar el diseño de los niveles para adaptarse a la mecánica puede conllevar un riesgo enorme, es decir que los jugadores utilicen la mecánica para romper el juego, es por eso que diseños de niveles tipo kirby son aclamados entre los diseñadores",
+        "tituloJuego":"Kirby super start(Super nintendo)",
         "subtitulo":"Mecánicas y más mecánicas",
         "descripcionJuego":"Kirby es un personaje capaz de absorber a sus enemigos y copiar sus habilidades, en este caso tenemos a un jefe que al derrotarlo y absorberlo le da a kirby el poder de lanzar bombas",
         "imagen":"jefe-bomba"
     },
     {
-        "id":13,
+        "id":18,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"La mecánica interactúa con el mapa sin haberla cambiado",
         "descripcionJuego":"Al obtener la habilidad de lanzar bombas, kirby puede romper bloques que le permitirá comer y por ender recuperar la vidad que perdió durante la batalla contra el jefe",
         "imagen":"kirby-rompe"
     },
     {
-        "id":14,
+        "id":19,
+        "titulo":"Estado de flujo",
+        "explicacion":"El estado de flujo como su nombre lo indica es un momento o situación dada en el que el jugador siente que se está enfrentando a un reto más difícil de lo normal pero que sabe que puede superar ya que tiene la suficiente habilidad para superarlo, sin embargo existen extremos, si el juego es muy difícil en comparación con la habilidad del jugador, este se frustará, pero si la habilidad del jugador es mayor a la dificultad del juego, el jugador no tendrá un reto interesante",
+        "tituloJuego":"Battletoads(NES)",
         "subtitulo":"Cambios abruptos de dificultad",
         "descripcionJuego":"Battletoads es un juego extremadamente difícil, no porque los jugadores son malos jugando, sino porque en términos de diseño de niveles, es muy injusto, solo al inicio del juego dejan a la deriva al jugador e inmediatamente lo ponen a pelear contra dos enemigos rápidos y que quitan 1 de los 5 puntos de vida que tiene el jugador sin haberle dado si quiera una pista de cómo moverse o al menos atacar, estos fallos son una constante a lo largo del juego ya que los creadores suponen que el jugador sabrá qué hacer cuando en realidad no le han dicho nada, es como dejar a alguien desnudo en el desierto y suponer que llegará bien a su casa ",
         "imagen":"BTT"
     },
     {
-        "id":15,
+        "id":20,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"Tan fácil que aburre",
         "descripcionJuego":"Kirby se caracteriza por ser accesible, es decir que cualquier tipo de persona lo pueda jugar y disfrutar, sin embargo hay algunas entregas que son tan accesibles que olvidan al público que busca un reto mayor, estos son los que más sufren ya que al estar tan enfocado en hacerlo accesible hacen los diseños muy fáciles de entender y ejecutar hasta el punto que se vuelve aburrido, como recompensar muchas veces al jugador, enemigos poco peligrosos, hasta la habilidad de volar de kirby es capaz de romper niveles de algunas entregas ",
         "imagen":"kirby-vuela"
     },
     {
-        "id":16,
+        "id":21,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El equilirio",
-        "descripcionJuego":"Ender lilies es un juego cuya dificultad y esencia se basa en la exploración de un reino en ruinas, pero en el combate siempre hay una constante, desde el enemigo más pequeño hasta el jefe más poderoso emiten una luz antes de atacar, esto le dice directamente al jugador que se preparé para un ataque enemigo, un detalle simple hace que el jugador sea capaz de entender en poco tiempo que esa luz significa peligro, y por ende debe evitarlo y si por alguna razón perdió, la culpa fue del jugador y no del juego",
+        "descripcionJuego":"Ender lilies es un juego cuya dificultad y esencia se basa en la exploración de un reino en ruinas, pero en el combate siempre hay una constante, desde el enemigo más pequeño hasta el jefe más poderoso emiten una luz antes de atacar.",
         "imagen":"luz-ataque",
         "imagen2":"luz-ataca2"
     },
     {
-        "id":17,
+        "id":22,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
+        "subtitulo":"El equilirio",
+        "descripcionJuego":"Esto le dice directamente al jugador que se preparé para un ataque enemigo, un detalle simple hace que el jugador sea capaz de entender en poco tiempo que esa luz significa peligro, y por ende debe evitarlo y si por alguna razón perdió, la culpa fue del jugador y no del juego",
+        "imagen":"luz-ataca2"
+    },
+    {
+        "id":23,
+        "titulo":"Recompensar al jugador",
+        "explicacion":"Es importante estar recompensando constantemente al jugador por sus pequeños logros, esto incentiva al jugador a seguir avanzando y es un incentivo por aprender alguna mecánica",
+        "tituloJuego":"New super mario bros(wii)",
         "subtitulo":"Desafío-recompensa",
-        "descripcionJuego":"Al igual que las recompensas, es importante darle desafíos que pongan a prueba la destreza y la mecánica planteada, al inicio del nivel, mario puede convertirse en un pinguino que tira bolas de hielo que congelan a los enemigos, los enemigos congelados sirven como plataformas que llevan a Mario a otros lugares, en este caso se está poniendo a prueba la mecánica de la bola de hielo, el objetivo es congelar a la planta piraña para utilizarlo como plataforma y alcanzar la moneda que es un coleccionable en el juego, el riesgo es caer al vacío, pero si el jugador logra pasar este desafío aprenderá que en algunos momentos puede utilizar a los enemigos congelados para alcanzar otros lugares",
+        "descripcionJuego":"Al igual que las recompensas, es importante darle desafíos que pongan a prueba la destreza y la mecánica planteada, al inicio del nivel, mario puede convertirse en un pinguino que tira bolas de hielo que congelan a los enemigos, los enemigos congelados sirven como plataformas que llevan a Mario a otros lugares, en este caso se está poniendo a prueba la mecánica de la bola de hielo, el objetivo es congelar a la planta piraña para utilizarlo como plataforma y alcanzar la moneda que es un coleccionable en el juego, el riesgo es caer al vacío",
         "imagen":"inicio-desafio",
         "imagen2":"final-desafio"
     },
     {
-        "id":18,
+        "id":24,
+        "titulo":"Recompensar al jugador",
+        "explicacion":"Es importante estar recompensando constantemente al jugador por sus pequeños logros, esto incentiva al jugador a seguir avanzando y es un incentivo por aprender alguna mecánica",
+        "tituloJuego":"New super mario bros(wii)",
+        "subtitulo":"Desafío-recompensa",
+        "descripcionJuego":"Si el jugador logra pasar este desafío aprenderá que en algunos momentos puede utilizar a los enemigos congelados para alcanzar otros lugares",
+        "imagen":"final-desafio"
+    },
+    {
+        "id":25,
+        "titulo":"¿Qué lenguajes y motores gráficos utilizar?",
+        "explicacion":"Es importante tener en cuenta que programar es un aspecto indispensable a la hora de crear un videojuego, no solo para crear la lógica del juego, sino porque es capaz de realizar operaciones que el motor gráfico no puede hacer",
+        "tituloJuego":"",
         "subtitulo":"Programación orientada a interactividad",
         "descripcionJuego":"los lenguajes más utilizados en el desarrollo de videojuegos son: c#,c++, python, JavaScript o Lua, existen varios motores gráficos como unity, Godot, Game maker, rpg maker o incluso Clickteam Fusion",
         "imagen":"programando"
     },
     {
-        "id":19,
+        "id":26,
+        "titulo":"Lógica de programación",
+        "explicacion":"La lógica en general es un aspecto importante en general, pero en el desarrollo de videojuegos se necesita una perspectiva diferente",
+        "tituloJuego":"",
         "subtitulo":"Una misión sencilla",
         "descripcionJuego":"En una misión el jugador tiene que recolectar una cantidad de cosas,pero hay que tener en cuenta varios aspectos, básicamente encontrar errores mediante la prueba y el error, el jugador habla con el npc, npc pide x cantidad de algo, jugador recolecta y si la cantidad que tiene el jugador es igual a la cantidad del algo que pide el npc, el jugador tendrá que ir nuevamente con el npc para completar la misión, esto es sencillo pero...",
         "imagen":"inicio-mision"
     },
     {
-        "id":20,
+        "id":27,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador vuelve a hablar con el npc sin haber recolectado la cantidad necesaria",
         "descripcionJuego":"Muy posiblemente la primera vez que se ha hecho el código no se puso una condicional en el npc, es decir el npc no es capaz de diferenciar entre la cantidad que pidió con la cantidad que tiene el jugador, en otras palabras el jugador al haber recolectado poco o nada del algo,igual se complete la misión. Para arreglar esto, hay que poner una condicional al npc, es decir que si la cantidad de hiebas(es un ejemplo) es igual o mayor a la cantidad de hierbas que tiene el jugador entonces la misión se completará, pero de no ser así mandar un mensaje que diga que no se ha recolectado las hierbas suficientes y por ende debe seguir buscando",
         "imagen":"mision-off"
     },
     {
-        "id":21,
+        "id":28,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador se va",
         "descripcionJuego":"Para ello, se debe limitar la zona, cuando el jugador toque el cuadro debe activarse dos condiciones",
         "imagen":"limites"
     },
     {
-        "id":22,
+        "id":29,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador se va pt2",
         "descripcionJuego":"La primera es que el jugador colisione con el cuadro y la segunda es que el jugador tenga la misión de recolectar activado, si no se cumple una de esas condiciones el jugador no recibirá ninún efecto",
         "imagen":"limites-prueba"
     },
     {
-        "id":23,
+        "id":30,
+        "titulo":"",
+        "explicacion":"",
+        "tituloJuego":"",
         "subtitulo":"El jugador vuelve a hablar con el npc después de haber recolectado la cantidad necesaria",
         "descripcionJuego":"Si por alguna razón el jugador vuelve a hablar con el npc después de completar la misión, lo más probable es que la misión vuelva a comenzar, para ello despúés de que la condición de recolección haya sido verdad hay que desactivar la mision y en cambio dejar un mensaje adicional",
         "imagen":"mision-on"

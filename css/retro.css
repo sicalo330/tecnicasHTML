@@ -55,6 +55,7 @@ img{
     border: 1px solid white;
     padding: 15px;
     border-radius: 5px;
+    align-items: center;
 }
 
 .contenedor-texto{
@@ -63,6 +64,7 @@ img{
     width: 45%;
     margin-left: 135px;
     margin-top: 70px;
+    align-items: center;
 }
 
 .contenedor-texto-1{
@@ -72,6 +74,7 @@ img{
     font-size: 150%;
     margin-left: 290px;
     margin-top: 250px;
+    align-items: center;
 }
 
 .contenedor-texto-2{
@@ -80,22 +83,14 @@ img{
     width: 50%;
     font-size: 150%;
     margin-left: 290px;
+    align-items: center;
 }
 
 .descripcionJuego{
     text-align: center;
     margin-left: 55px;
-}
-
-.descripcionJuego-2{
-    margin-top: 350px;
-}
-
-.descripcionJuego-3{
-    margin-top: 150px;
-}
-.descripcionJuego-4{
-    margin-top: 450px;
+    margin-top: 120px;
+    align-items: center;
 }
 .subtitulo{
     display: block;
@@ -111,10 +106,12 @@ img{
     margin-left: 650px;
     width: 500px;
     padding: 0;
+    align-items: center;
 }
 
 .contenedor-descripcion{
     display: flex;
+    align-items: center;
 }
 
 
@@ -122,19 +119,16 @@ img{
     display: inline-block;
     width: 30%;
     height: 30%;
+    align-items: center;
 }
 
 .contenedor-juego{
     display: flex;
+    height: 80%;
+    align-items: center;
 }
 
 .ajustar-imagen{
-    width: 120%;
-}
-
-.ajustar-imagen-1{
-    width: 80%;
-}
-.ajustar-imagen-2{
-    width: 35%;
+    width: 90%;
+    align-items: center;
 }
