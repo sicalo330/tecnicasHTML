@@ -1,0 +1,30 @@
+*{
+    font-family: "Figtree", sans-serif;
+}
+
+table,tr,td, th{
+    border: 1px solid black;
+    border-collapse: collapse;/*Esto quita el espacio entra las celdas dejando umn borde unilateral*/
+    color: black;
+}
+
+.header{
+    padding: 4% 15%;
+    margin: auto;
+    opacity: 0.6;
+    background-color: rgb(77, 11, 139);
+  }
+
+  .orden{
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+  }
+
+  .estiloli{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
