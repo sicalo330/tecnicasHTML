@@ -28,9 +28,6 @@ margin: 0;
     font-size: 30px;
 }
 
-.inicio-CAS{
-    height: 5%;
-}
 
 p,li{
     font-size: larger;
@@ -47,7 +44,7 @@ img{
     font-size: 30px;
 }
 
-.titulo-juego{
+ .titulo-juego{
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -61,7 +58,6 @@ img{
 
 .contenedor-principal{
     border: 1px solid white;
-    padding: 15px;
     border-radius: 5px;
     align-items: center;
 }
@@ -74,69 +70,74 @@ img{
     margin-top: 70px;
     align-items: center;
 }
+    .contenedor-texto-1{
+        display: flex;
+        text-align: center;
+        width: 50%;
+        font-size: 150%;
+        margin-left: 290px;
+        margin-top: 250px;
+        align-items: center;
+    }
+    .contenedor-texto-2{
+        display: flex;
+        text-align: center;
+        width: 50%;
+        font-size: 150%;
+        margin-left: 290px;
+        margin-top: 250px;
+        align-items: center;
+    }
+    .descripcionJuego{
+        text-align: center;
+        margin-left: 55px;
+        margin-top: 120px;
+        align-items: center;
+    }
+    .subtitulo{
+        display: block;
+        text-align: center;
+        color: black;
+    }
+    .fecha{
+        color: white;
+    text-align: right;
+    padding-right: 90px;
+    font-size: 70px;
+    margin: 20px;
+    }
+    .contenedor-subtitulo{
+        border: 1px solid white;
+        background-color: white;
+        justify-content: center;
+        align-items: center;
+        margin-left: 650px;
+        width: 500px;
+        padding: 0;
+        align-items: center;
+    }
 
-.contenedor-texto-1{
-    display: flex;
-    text-align: center;
-    width: 50%;
-    font-size: 150%;
-    margin-left: 290px;
-    margin-top: 250px;
-    align-items: center;
-}
-
-.contenedor-texto-2{
-    display: flex;
-    text-align: center;
-    width: 50%;
-    font-size: 150%;
-    margin-left: 290px;
-    align-items: center;
-}
-
-.descripcionJuego{
-    text-align: center;
-    margin-left: 55px;
-    margin-top: 120px;
-    align-items: center;
-}
-.subtitulo{
-    display: block;
-    text-align: center;
-    color: black;
-}
-
-.contenedor-subtitulo{
-    border: 1px solid white;
-    background-color: white;
-    justify-content: center;
-    align-items: center;
-    margin-left: 650px;
-    width: 500px;
-    padding: 0;
-    align-items: center;
-}
-
-.contenedor-descripcion{
-    display: flex;
-    align-items: center;
-}
+    .contenedor-descripcion{
+        display: flex;
+        align-items: center;
+    }
 
 
-.contenedor-descripcion-img{
-    display: inline-block;
-    width: 30%;
-    height: 30%;
-    align-items: center;
-}
+    .contenedor-descripcion-img{
+        display: inline-block;
+        width: 30%;
+        height: 30%;
+        align-items: center;
+    }
 
-.contenedor-juego{
-    display: flex;
-    height: 80%;
-    align-items: center;
-}
+    .contenedor-juego{
+        display: flex;
+        height: 80%;
+        align-items: center;
+        justify-content: space-between;
+    }
 
-.ajustar-imagen{
-    width: 90%;
-    align-items: center;
-}
+    .ajustar-imagen{
+        width: 90%;
+        align-items: center;
+    } 

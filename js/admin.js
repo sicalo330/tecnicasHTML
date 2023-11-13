@@ -9,14 +9,14 @@ const getTable = async() => {
     //Como en nuestros json no tenemos un numero de columnas iguales, tuve que partirlo en varias partes
     //Esto iniciará haciendo un thead
     let dataTable = `
-    <table id="dataTable">
+    <table id="dataTable" class="text-white bg-white">
         <h1>Tabla de usuarios</h1>
         <thead>
     `
     //El objetivo de esto es que se ciclen en los atributos de cada json porque repito en nuestros json no tenemos un número igual de columnas
     dataTable +=`
-    <tr>
-    ${Object.keys(elements[0]).map(key => `<th scope="col">${key.toUpperCase()}</th>`).join('')};
+    <tr >
+    ${Object.keys(elements[0]).map(key => `<th scope="col">${key.toUpperCase()}</th>`).join('')}
     </tr>
     `
     //Aquí pongo el thead de cierre y pongo las celdas de cada atributo
@@ -28,8 +28,6 @@ const getTable = async() => {
             ${Object.keys(row).map( cell => `<td>${row[cell]}</td>`).join('')}
         </tr>
     `).join('')}
-
-    <tbody>
     </tbody>
     </table>
     `

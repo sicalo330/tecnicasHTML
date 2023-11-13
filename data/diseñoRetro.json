@@ -52,8 +52,7 @@
         "subtitulo":"Obstáculo inamovible",
         "descripcionJuego":" La última mecánica del juego y la más importante, encontrar obstáculos imposibles de pasar por el momento, como se puede ver, el jugador sin importar que tan fuerte apriete el botón para saltar, simplemente no va a poder alacanzar esa plataforma, esta entrega de castlevania es del génermo metroidvania, y encontrar este tipo de obstáculos es normal ya que obliga al jugador a seguir explorando hasta encontrar algún item, poder o reliquia que le permite poder alcanzar esa plataforma, en este caso, el jugador necesitará de un doble salto para poder alcanzar la plataforma, habilidad que conseguirá después",
         "imagen":"metroidvania"
-    },
-    {
+    },{
         "id":6,
         "titulo":"El juego se adapta a la mecánica",
         "explicacion":"En varias ocasiones un juego no estará hecho como se tenía planeado, algún error o complicación puede aparecer a la hora de crear un videojuego en el apecto de las mecánicas, pero hay que tomar una decisión para poder avanzar",
@@ -280,4 +279,5 @@
         "descripcionJuego":"Si por alguna razón el jugador vuelve a hablar con el npc después de completar la misión, lo más probable es que la misión vuelva a comenzar, para ello despúés de que la condición de recolección haya sido verdad hay que desactivar la mision y en cambio dejar un mensaje adicional",
         "imagen":"mision-on"
     }
+    
 ]
