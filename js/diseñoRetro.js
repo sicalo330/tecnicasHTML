@@ -18,7 +18,7 @@ const getRetro = async() =>{
                 <div class="contenedor-descripcion-img">
                     <img src="./Imagenes/${element.imagen}.jpg" class="ajustar-imagen">
                 </div>
-                <div class="contenedor-texto-2">
+                <div class="contenedor-texto">
                     <p class="descripcionJuego">${element.descripcionJuego}</p>
                 </div>
             </div>

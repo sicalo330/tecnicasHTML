@@ -70,22 +70,13 @@ img{
     margin-top: 70px;
     align-items: center;
 }
-    .contenedor-texto-1{
+    .contenedor-texto{
         display: flex;
         text-align: center;
         width: 50%;
         font-size: 150%;
         margin-left: 290px;
-        margin-top: 250px;
-        align-items: center;
-    }
-    .contenedor-texto-2{
-        display: flex;
-        text-align: center;
-        width: 50%;
-        font-size: 150%;
-        margin-left: 290px;
-        margin-top: 250px;
+        margin-top: -150px;
         align-items: center;
     }
     .descripcionJuego{
@@ -140,4 +131,4 @@ img{
     .ajustar-imagen{
         width: 90%;
         align-items: center;
-    } 
+    }
