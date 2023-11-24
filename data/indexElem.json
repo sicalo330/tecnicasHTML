@@ -14,10 +14,129 @@
         "clase":"imagen"
     },
     {
-        "title":"Josef Kates",
-        "image":"josef",
-        "descripcion":"¿Quién fue Josef Kates? El ingeniero canadiense Josef Kates creó en 1950 Bertie the Brain, un gigantesco ordenador que utilizaba válvulas de vacío y era <br> capaz de ejecutar el popular juego del tres en raya.",
-        "link":"https://es.wikipedia.org/wiki/Bertie_the_Brain",
-        "clase":"creador"
+        "title":"Magnavox Odyssey",
+        "image":"magnavox",
+        "descripcion":"1972 fue el año en el que los videojuegos se empezaron a comercializar, gracias a la Magnavox Odyssey considerada la primera consola de la historia os videojuegos tuvieron un pequeño auge durante esas épocas.El sistema venía con una serie de cartas perforadas de juego que se insertaban en la consola. Cada tarjeta perforada tenía un patrón único de agujeros que instruía a la consola sobre cómo generar gráficos en la pantalla de televisión.Estos overlays podían incluir laberintos, campos de juego de fútbol, pistas de carreras, entre otros",
+        "link":"https://es.wikipedia.org/wiki/Magnavox_Odyssey",
+        "clase":"imagen"
+    },
+    {
+        "title":"Llegada de las consolas atari",
+        "image":"atari2600",
+        "descripcion":"La ascensión de los videojuegos llegó con la máquina recreativa Pong que es considerada la versión comercial del juego Tennis for Two de Higginbotham. El sistema fue diseñado por Al Alcom para Nolan Bushnell en la recién fundada Atari. El juego se presentó en 1972 y fue la piedra angular del videojuego como industria.La consola más reconocida es la famosa atari2600 que es conocido por ser el primer sistema de videojuegos en tener gran éxito, e hizo popular los cartuchos intercambiables",
+        "link":"https://es.wikipedia.org/wiki/Atari",
+        "clase":"imagen"
+    },
+    {
+        "title":"Space invaders",
+        "image":"space",
+        "descripcion":" Es un videojuego de arcade diseñado por Toshihiro Nishikado y lanzado al mercado en 1978. En un principio fue fabricado y vendido por Taito Co. en Japón, para posteriormente ser licenciado para producción y distribución en Estados Unidos por Midway Games, división de Bally Technologies. Space Invaders es uno de los primeros juegos matamarcianos. Space Invaders es uno de los videojuegos más importantes de la historia. ",
+        "link":"https://es.wikipedia.org/wiki/Space_Invaders",
+        "clase":"imagen"
+    },
+    {
+        "title":"Años 80 y las maquinas arcade",
+        "image":"arcade",
+        "descripcion":" Los años 80 comenzaron con un fuerte crecimiento en el sector del videojuego alentado por la popularidad de los salones de máquinas recreativas ",
+        "link":"https://es.wikipedia.org/wiki/Arcade",
+        "clase":"imagen"
+    },
+    {
+        "title":"Donkey kong",
+        "image":"DK",
+        "descripcion":" Donkey Kong es un videojuego arcade creado por Nintendo en 1981. Es un primitivo juego del género plataformas que se centra en controlar al personaje sobre una serie de plataformas mientras evita obstáculos. La historia no es muy compleja, pero funcionó en aquella época. El juego consiste en que Mario (llamado Jumpman entonces en este videojuego) debe rescatar a una dama (Pauline) que había sido capturada por un enorme gorila llamado Donkey Kong/Cranky Kong. Estos dos personajes se volvieron de los más famosos de Nintendo.",
+        "link":"https://es.wikipedia.org/wiki/Donkey_Kong_(videojuego)",
+        "clase":"imagen"
+    },
+    {
+        "title":"ET",
+        "image":"ET",
+        "descripcion":" E.T. the Extra-Terrestrial (también llamado simplemente E.T.) es un videojuego de aventura desarrollado y publicado por Atari, Inc. para su Atari 2600. Basado en la película conel mismo nombre.Warshaw intentó hacer del juego una adaptación innovadora y Atari pensó que cosecharía numerosas ventas dada su conexión con la película, que era muy conocida por todo el mundo. El creador solo tuvo cuatro semanas para desarrollar el juego a tiempo para la campaña de Navidad de 1982. Como resultado, el juego no pasó todos los controles de calidad por ejemplo, hacer una prueba previa con usuarios. E.T. es citado frecuentemente como uno de los factores de las grandes pérdidas que Atari presentó en 1983 y 1984.",
+        "link":"https://es.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(videojuego)",
+        "clase":"imagen"
+    },
+    {
+        "title":"Crisis del videojuego de 1983",
+        "image":"crisis",
+        "descripcion":" La crisis comenzó en 1983, llevando a la quiebra a varias empresas estadounidenses dedicadas a la producción de ordenadores domésticos y videoconsolas. La crisis fue atribuida a varios factores, incluyendo la saturación de mercado en el número de consolas de videojuegos y juegos disponibles de la época, muchos de los cuales eran de baja calidad, así como también la pérdida de interés en los juegos de consola en favor de los ordenadores personales.",
+        "link":"https://es.wikipedia.org/wiki/Crisis_del_videojuego_de_1983",
+        "clase":"imagen"
+    },
+    {
+        "title":"Llegada del NES(Nintendo Entertainment Sistem)",
+        "image":"NES",
+        "descripcion":" Nintendo Entertainment System (también conocida como Nintendo NES o simplemente NES),llamada en Japón como Family Computer (también llamada en Japón como Famicom), es una videoconsola descontinuada de 8 bits perteneciente a la tercera generación en la industria de los videojuegos, la primera consola de sobremesa de Nintendo en emplear cartuchos. Su existencia fue importante para la industria por el hito que se mostrará a continuación y cabe a aclarar que en esta consola no se permitían guardar las partidas sino que los juegos debían pasarse de una sola sentada",
+        "link":"https://es.wikipedia.org/wiki/Nintendo_Entertainment_System",
+        "clase":"imagen"
+    },
+    {
+        "title":"Super mario bros NES",
+        "image":"marioNES",
+        "descripcion":" Super Mario Bros es un videojuego de plataformas desarrollado por Nintendo Research & Development 4 y publicado por Nintendo para la Famicom en 1985. Junto a la plataforma NES, a Super Mario Bros. a menudo se le atribuye haber resucitado la industria de los videojuegos después de la crisis del videojuego de 1983.La revista Video Game Update publicó en 1986 como única publicación inmediatamente después de su lanzamiento en Norteamérica, los dos revisores destacaron el alcance del juego, decían lo siguiente: contiene muchas sorpresas y descubrimientos y le da mucha alegría al jugador, por esto consideraron que Super Mario Bros. era una compra obligatoria para los videojugadores de la consola NES. Este juego creó las bases de los juegos plataformeros y su diseño de niveles se utiliza incluso hoy en día",
+        "link":"https://es.wikipedia.org/wiki/Super_Mario_Bros.#",
+        "clase":"imagen"
+    },
+    {
+        "title":"The legend of zelda",
+        "image":"zelda",
+        "descripcion":" Para la creación del juego, Miyamoto se basó en sus experiencias infantiles; estas, según él recuerda, consistían en que se aventuraba a lo largo de enormes campos y con frecuencia se perdía en bosques y cuevas.De acuerdo a sus declaraciones, una vez se topó con un lago y esto le causó un profundo impacto emocional; más tarde pensó en el concepto de «un jardín en miniatura donde las personas puedan hacer lo que quieran. Asimismo, consideró que el propio jugador debía ser quien decidiera el curso del argumento, pues quería obligarlo apensar en lo que debe de hacer a continuación.Este fue de los primeros juegos en implementar un sistema para guardar la partida implementado en el cartucho sin requerir códigos generados por la consola o algún método extraño, con solo tocar un botón bastaba. Fue el pionero en la creación de los mundo abierto gracias a la libertad tan significativa que le brindaba al jugadors",
+        "link":"https://es.wikipedia.org/wiki/The_Legend_of_Zelda_(videojuego)",
+        "clase":"imagen"
+    },
+    {
+        "title":"Dragon Quest",
+        "image":"quest",
+        "descripcion":" Dragon Quest conocido como Dragon Warrior cuando se localizó inicialmente en Norteamérica, es el primer videojuego de rol (RPG) de la popular franquicia Dragon Quest. Fue desarrollado por Chunsoft para la Family Computer y publicado por Enix en Japón en 1986 como Dragon Quest y por Nintendo en 1989 en Norteamérica para la Nintendo Entertainment System. Su lanzamiento como Guerrero Dragón en América del Norte, y otros países occidentales, fue recibido de manera menos favorable. Más tarde, los críticos occidentales notaron los defectos del juego pero reconocieron su importancia para el género. Si bien juegos como wizardry ya sentaban las bases del género RPG, dragon quest mejor y pulió sus mecánicas",
+        "link":"https://es.wikipedia.org/wiki/The_Legend_of_Zelda_(videojuego)",
+        "clase":"imagen"
+    },
+    {
+        "title":"Street fighter",
+        "image":"fighter",
+        "descripcion":" Lanzado por primera vez en 1987, fue un juego pionero en el género de juegos de lucha y tuvo una influencia significativa en la industria de los videojuegos, introdujo los movimientos especiales y los combos, planteó la selección de personajes lo que era una completa revolución y fue gracias a sus mecánicas que creó las copetencias",
+        "link":"https://es.wikipedia.org/wiki/Street_Fighter",
+        "clase":"imagen"
+    },
+    {
+        "title":"DOOM 1993",
+        "image":"doom",
+        "descripcion":" Doom es un videojuego de disparos en primera persona desarrollado y publicado por id Software. Lanzado el 10 de diciembre de 1993.Doom es un videojuego de disparos en primera persona desarrollado y publicado por id Software. Lanzado el 10 de diciembre de 1993. Fue Pionero en juegos de disparos en primera persona (FPS), sus gráficos e interfaz gráfica fueron de gran inspiración para los fps modernos y su impacto cultural fue tan grande que es reconocido como una obra maestra incluso 30 años después de su lanzamiento y sigue vivio gracias a los moddings que se le hace",
+        "link":"https://es.wikipedia.org/wiki/Doom_(videojuego_de_1993)",
+        "clase":"imagen"
+    },
+    {
+        "title":"Salto al 3D",
+        "image":"quinta",
+        "descripcion":"Desde la creación de la super nintendo y la sega genesis, las dos compañías Nintendo y Sega habían estado experimentando con el 3d de varias formas, por ejemplo la super nintendo utilizaba un chip llamada fx que creada planos 2D para hacer dar la impresión de que eran 3D como en el caso de DOOM 1993 o star fox para la super nintendo, o sonic the hedgehog con planos que se veían en 3D, pero no fue con la llegada de la quinta generación de consolas que el 3D se volvió realidad",
+        "link":"",
+        "clase":"imagen"
+    },
+    {
+        "title":"Super mario 64",
+        "image":"mario64",
+        "descripcion":"Super Mario 64 fue uno de los primeros juegos en presentar gráficos tridimensionales en un entorno de mundo abierto. Marcó cómo se debe hacer la transición de los juegos de plataformas 2D a experiencias de juego más inmersivas y expansivas en 3D,desempeñó un papel clave en el éxito comercial de la plataforma. Su impacto en la industria fue significativo, estableciendo estándares para juegos en 3D y contribuyendo al crecimiento y la popularidad de la industria de los videojuegos en general",
+        "link":"https://es.wikipedia.org/wiki/Super_Mario_64",
+        "clase":"imagen"
+    },
+    {
+        "title":"Final fantasy vii",
+        "image":"FF7",
+        "descripcion":"En aquella época square con final fantasy siempre estuvo en una rivalidad con enix y sus dragon quest, por lo general enix siempre ganaban ya que dragon quest siempre había sido más popular y vendía más, hasta la llegada de de esta entrega, si bien dragon quest de NES sentó las bases del RPG moderno mejorando las mecánicas planteadas por wizardy, final fantasy 7 los popularizó por todo el mundo volviéndose una marca que enix dificilmente podría rebasar ",
+        "link":"https://es.wikipedia.org/wiki/Final_Fantasy_VII",
+        "clase":"imagen"
+    },
+    {
+        "title":"Super smash bros 1999",
+        "image":"smash",
+        "descripcion":"Esta fue la primera entrega pero al mismo tiempo fue la causante de crear una de las sagas más populares hasta la actualidad, todo era fresco en este juego, personajes de otros juegos peleándose los unos contra los otros ya parecía un sueño en esa época, pero las mecánicas de pelea solo lo hacían mucho mejor gracias a la accesibilidad que tenían esto debido a que no era necesario aprender combos extremadamente largos como en street fighter, el prestigio que tiene esta saga es tan grande que se volvió un salón de la fama para los videojuegos y sigue estando vigente hoy en día con sus títulos tanto actuales como antiguos",
+        "link":"https://es.wikipedia.org/wiki/Super_Smash_Bros.",
+        "clase":"imagen"
+    },
+    {
+        "title":"Cave story",
+        "image":"cave",
+        "descripcion":"Es muy posible que casi nadie conozca este juego, sin embargo ha hecho más por la industria que cualquier otro juego, es a menudo considerado uno de los primeros grandes éxitos de los juegos indie, el éxito de Cave Story sirvió como inspiración para otros desarrolladores independientes. Demostró que los juegos creados por pequeños equipos o incluso desarrolladores individuales podían competir en calidad y atractivo con los títulos de estudios más grandes.Es gracias a este juego que los juegos independientes existen y estos últimos hasta el día de hoy enriquecen de gran medida a la industria con mecánicas innovadores, narrativas frescas y siempre con la libertad creativa en alto, eso significó cave story un antes y un después para el desarrollo de juegos indies frente a las grandes empresas",
+        "link":"https://es.wikipedia.org/wiki/Cave_Story",
+        "clase":"imagen"
     }
 ]
