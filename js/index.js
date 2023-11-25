@@ -4,16 +4,15 @@ const getElement = async () => {
   let news = document.querySelector('#main');
   elements.forEach((element) => {
     news.innerHTML +=  `
-    <aside class="${element.clase}">
-    <img src="Imagenes/${element.image}.jpg" alt="Error Img" class="bertie"><br>
+    <a href="${element.link}" target="_blank"><h2 class="whi">${element.title}</h2></a>
+    <aside class="aside">
+    <img src="Imagenes/${element.image}.jpg" alt="Error Img" class="${element.clase}"><br>
         <div class="section">
             <article>
-                <h2 class="whi">${element.title}</h2>
                 <div>
                     <p class="descripcion">
                         ${element.descripcion}
                     </p>
-                    <a href="${element.link}" target="_blank" class="custom-button">Leer Mas...</a>
                 </div>
             </article>
         </div>

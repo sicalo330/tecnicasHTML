@@ -18,7 +18,7 @@
         "image":"magnavox",
         "descripcion":"1972 fue el año en el que los videojuegos se empezaron a comercializar, gracias a la Magnavox Odyssey considerada la primera consola de la historia os videojuegos tuvieron un pequeño auge durante esas épocas.El sistema venía con una serie de cartas perforadas de juego que se insertaban en la consola. Cada tarjeta perforada tenía un patrón único de agujeros que instruía a la consola sobre cómo generar gráficos en la pantalla de televisión.Estos overlays podían incluir laberintos, campos de juego de fútbol, pistas de carreras, entre otros",
         "link":"https://es.wikipedia.org/wiki/Magnavox_Odyssey",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Llegada de las consolas atari",
@@ -46,7 +46,7 @@
         "image":"DK",
         "descripcion":" Donkey Kong es un videojuego arcade creado por Nintendo en 1981. Es un primitivo juego del género plataformas que se centra en controlar al personaje sobre una serie de plataformas mientras evita obstáculos. La historia no es muy compleja, pero funcionó en aquella época. El juego consiste en que Mario (llamado Jumpman entonces en este videojuego) debe rescatar a una dama (Pauline) que había sido capturada por un enorme gorila llamado Donkey Kong/Cranky Kong. Estos dos personajes se volvieron de los más famosos de Nintendo.",
         "link":"https://es.wikipedia.org/wiki/Donkey_Kong_(videojuego)",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"ET",
@@ -60,7 +60,7 @@
         "image":"crisis",
         "descripcion":" La crisis comenzó en 1983, llevando a la quiebra a varias empresas estadounidenses dedicadas a la producción de ordenadores domésticos y videoconsolas. La crisis fue atribuida a varios factores, incluyendo la saturación de mercado en el número de consolas de videojuegos y juegos disponibles de la época, muchos de los cuales eran de baja calidad, así como también la pérdida de interés en los juegos de consola en favor de los ordenadores personales.",
         "link":"https://es.wikipedia.org/wiki/Crisis_del_videojuego_de_1983",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Llegada del NES(Nintendo Entertainment Sistem)",
@@ -74,7 +74,7 @@
         "image":"marioNES",
         "descripcion":" Super Mario Bros es un videojuego de plataformas desarrollado por Nintendo Research & Development 4 y publicado por Nintendo para la Famicom en 1985. Junto a la plataforma NES, a Super Mario Bros. a menudo se le atribuye haber resucitado la industria de los videojuegos después de la crisis del videojuego de 1983.La revista Video Game Update publicó en 1986 como única publicación inmediatamente después de su lanzamiento en Norteamérica, los dos revisores destacaron el alcance del juego, decían lo siguiente: contiene muchas sorpresas y descubrimientos y le da mucha alegría al jugador, por esto consideraron que Super Mario Bros. era una compra obligatoria para los videojugadores de la consola NES. Este juego creó las bases de los juegos plataformeros y su diseño de niveles se utiliza incluso hoy en día",
         "link":"https://es.wikipedia.org/wiki/Super_Mario_Bros.#",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"The legend of zelda",
@@ -88,7 +88,7 @@
         "image":"quest",
         "descripcion":" Dragon Quest conocido como Dragon Warrior cuando se localizó inicialmente en Norteamérica, es el primer videojuego de rol (RPG) de la popular franquicia Dragon Quest. Fue desarrollado por Chunsoft para la Family Computer y publicado por Enix en Japón en 1986 como Dragon Quest y por Nintendo en 1989 en Norteamérica para la Nintendo Entertainment System. Su lanzamiento como Guerrero Dragón en América del Norte, y otros países occidentales, fue recibido de manera menos favorable. Más tarde, los críticos occidentales notaron los defectos del juego pero reconocieron su importancia para el género. Si bien juegos como wizardry ya sentaban las bases del género RPG, dragon quest mejor y pulió sus mecánicas",
         "link":"https://es.wikipedia.org/wiki/The_Legend_of_Zelda_(videojuego)",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Street fighter",
@@ -102,21 +102,21 @@
         "image":"doom",
         "descripcion":" Doom es un videojuego de disparos en primera persona desarrollado y publicado por id Software. Lanzado el 10 de diciembre de 1993.Doom es un videojuego de disparos en primera persona desarrollado y publicado por id Software. Lanzado el 10 de diciembre de 1993. Fue Pionero en juegos de disparos en primera persona (FPS), sus gráficos e interfaz gráfica fueron de gran inspiración para los fps modernos y su impacto cultural fue tan grande que es reconocido como una obra maestra incluso 30 años después de su lanzamiento y sigue vivio gracias a los moddings que se le hace",
         "link":"https://es.wikipedia.org/wiki/Doom_(videojuego_de_1993)",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Salto al 3D",
         "image":"quinta",
         "descripcion":"Desde la creación de la super nintendo y la sega genesis, las dos compañías Nintendo y Sega habían estado experimentando con el 3d de varias formas, por ejemplo la super nintendo utilizaba un chip llamada fx que creada planos 2D para hacer dar la impresión de que eran 3D como en el caso de DOOM 1993 o star fox para la super nintendo, o sonic the hedgehog con planos que se veían en 3D, pero no fue con la llegada de la quinta generación de consolas que el 3D se volvió realidad",
         "link":"",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Super mario 64",
         "image":"mario64",
         "descripcion":"Super Mario 64 fue uno de los primeros juegos en presentar gráficos tridimensionales en un entorno de mundo abierto. Marcó cómo se debe hacer la transición de los juegos de plataformas 2D a experiencias de juego más inmersivas y expansivas en 3D,desempeñó un papel clave en el éxito comercial de la plataforma. Su impacto en la industria fue significativo, estableciendo estándares para juegos en 3D y contribuyendo al crecimiento y la popularidad de la industria de los videojuegos en general",
         "link":"https://es.wikipedia.org/wiki/Super_Mario_64",
-        "clase":"imagen"
+        "clase":"imagen3"
     },
     {
         "title":"Final fantasy vii",
@@ -137,6 +137,6 @@
         "image":"cave",
         "descripcion":"Es muy posible que casi nadie conozca este juego, sin embargo ha hecho más por la industria que cualquier otro juego, es a menudo considerado uno de los primeros grandes éxitos de los juegos indie, el éxito de Cave Story sirvió como inspiración para otros desarrolladores independientes. Demostró que los juegos creados por pequeños equipos o incluso desarrolladores individuales podían competir en calidad y atractivo con los títulos de estudios más grandes.Es gracias a este juego que los juegos independientes existen y estos últimos hasta el día de hoy enriquecen de gran medida a la industria con mecánicas innovadores, narrativas frescas y siempre con la libertad creativa en alto, eso significó cave story un antes y un después para el desarrollo de juegos indies frente a las grandes empresas",
         "link":"https://es.wikipedia.org/wiki/Cave_Story",
-        "clase":"imagen"
+        "clase":"imagen3"
     }
 ]

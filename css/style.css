@@ -1,3 +1,7 @@
+*{
+    font-family: "Figtree", sans-serif;
+}
+
 .header{
     background-color: rgb(77, 11, 139);
     padding: 4% 15%;
@@ -18,15 +22,23 @@ body{
     width: 20%;
     padding-left: 15px; /* se agrego de mas */
 }
-.bertie{
-    width: 51%;
-    padding-left: 15px; /* se agrego de mas */
+.aside{
+    width: 90%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 aside{
     width: 25%;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 .section{
     padding-left: 15px;
+    width: 200%;
 }
 p{
     color: white;
@@ -47,25 +59,45 @@ h1{  /* rediseña el 1958 */
     width: 950px;
     display: flex;
 }
-.imagen{ /* la imagen del tetris */
-    height: auto;
-    width: auto;
-    display: flex;
-}
-.imagen-3{
-    height: 200px;
-    width: 200px;
+.aumento2{
+    height: 150%;
+    width: 150%;
     display: flex;
     justify-content: center;
 }
-.imagen-4{
-    height: 200px;
-    width: 200px;
+
+.aumento{
+    height: 120%;
+    width: 120%;
     display: flex;
+    justify-content: center;
+}
+
+.imagen{ /* la imagen del tetris */
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.imagen2{
+    height: 60%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+.imagen3{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
 }
 .descripcion{
-    font-size: 19px;
-    /* position: absolute; */
+    font-size: 140%;
+    width: 90%;
+    text-align: center;
+    margin-left: 55px;
+    margin-top: 120px;
+    align-items: center;
 }
 .orden{
     display: flex;
