@@ -62,26 +62,17 @@ img{
     align-items: center;
 }
 
-.contenedor-texto{
-    text-align: center;
-    font-size: 150%;
-    width: 45%;
-    margin-left: 135px;
-    margin-top: 70px;
-    align-items: center;
-}
     .contenedor-texto{
         display: flex;
         text-align: center;
         width: 50%;
         font-size: 150%;
-        margin-left: 290px;
         margin-top: -150px;
         align-items: center;
     }
     .descripcionJuego{
         text-align: center;
-        margin-left: 55px;
+        margin-right: 100px;
         margin-top: 120px;
         align-items: center;
     }
